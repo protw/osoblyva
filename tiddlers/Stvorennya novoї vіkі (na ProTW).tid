@@ -1,0 +1,15 @@
+created: 20200928124104039
+modified: 20200928124803191
+tags: 
+title: Створення нової вікі (на ProTW)
+
+* Prerequisites (попередньо встановлене):
+** bob.exe (покладений у фолдер, окремий / інший від вікі);
+** має бути доступ до командного рядку;
+
+<div class="card" style="width:100%;">
+    <div class="card-body">
+      <span class="h3 card-title"><center>ВАЖЛИВО!</center></span>
+<span class="h5 card-title"><center>У наступних кроках необхідно уважно слідкувати за станом червогої галочки з правого боку (на панелі інструментів)</center></span>
+ </div>
+  </div>

@@ -1,6 +1,6 @@
 created: 20200922104815010
 icon: $:/favicon.ico
-modified: 20200924112635726
+modified: 20200928122500845
 title: Інтерв'ю
 
 \define hero(weblink,name,img,width) 
@@ -8,8 +8,8 @@ title: Інтерв'ю
 \end
 
 |table-borderless|k
-| <<hero "https://protw.github.io/osoblyva/#Наталя%20Атамась" "Наталя Атамась" "Атамась.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Ольга%20Голубєва" "Ольга Голубєва" "Голубєва.jpg" "259px">> | <<hero "https://protw.github.io/osoblyva/#Оксана%20Гришина" "Оксана Гришина" "Гришина.JPG" "176px">> |
-| <<hero "https://protw.github.io/osoblyva/#Юлія%20Денега" "Юлія Денега" "Денега.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Олександра%20Джигун" "Олександра Джигун" "Джигун.jpg" "207px">> | <<hero "https://protw.github.io/osoblyva/#Оксана%20Драган-Петрик" "Оксана Драган-Петрик" "Драган-Петрик.jpeg" "192px">> |
-| <<hero "https://protw.github.io/osoblyva/#Наталка%20Кияк" "Наталка Кияк" "Кияк.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Євгенія%20Ладигіна" "Євгенія Ладигіна" "Ладигіна.jpg" "259px">> | <<hero "https://protw.github.io/osoblyva/#Алла%20Лішун" "Алла Лішун" "Лішун.jpg" "184px">> |
-| <<hero "https://protw.github.io/osoblyva/#Алла%20Ралко" "Алла Ралко" "Ралко.JPG" "200px">> | <<hero "https://protw.github.io/osoblyva/#Ксенія%20Семенова-Шевелицька" "Ксенія Семенова-Шевелицька" "Семенова-Шевелицька.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Віра%20Усцова" "Віра Усцова" "Усцова.JPG" "198px">> |
-| <<hero "https://protw.github.io/osoblyva/#Лідія%20Харкавлюк" "Лідія Харкавлюк" "Харкавлюк.JPG" "200px">> | <<hero "https://protw.github.io/osoblyva/#Анна%20Яковлєва" "Анна Яковлєва" "Яковлєва.jpg" "200px">> | !''Далі буде...'' |
+| <<hero "https://protw.github.io/osoblyva/#Наталя%20Атамась" "Наталя Атамась" "Atamas.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Ольга%20Голубєва" "Ольга Голубєва" "Holubieva.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Оксана%20Гришина" "Оксана Гришина" "Hryshyna.jpg" "200px">> |
+| <<hero "https://protw.github.io/osoblyva/#Юлія%20Денега" "Юлія Денега" "Denega.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Олександра%20Джигун" "Олександра Джигун" "Dzhygun.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Оксана%20Драган-Петрик" "Оксана Драган-Петрик" "Petryk.jpg" "200px">> |
+| <<hero "https://protw.github.io/osoblyva/#Наталка%20Кияк" "Наталка Кияк" "Kyiak.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Євгенія%20Ладигіна" "Євгенія Ладигіна" "Ladygina.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Алла%20Лішун" "Алла Лішун" "Lishun.jpg" "200px">> |
+| <<hero "https://protw.github.io/osoblyva/#Алла%20Ралко" "Алла Ралко" "Ralko.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Ксенія%20Семенова-Шевелицька" "Ксенія Семенова-Шевелицька" "Semenova.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Віра%20Усцова" "Віра Усцова" "Ustsova.jpg" "200px">> |
+| <<hero "https://protw.github.io/osoblyva/#Лідія%20Харкавлюк" "Лідія Харкавлюк" "Kharkavliuk.jpg" "200px">> | <<hero "https://protw.github.io/osoblyva/#Анна%20Яковлєва" "Анна Яковлєва" "Iakovleva.jpg" "200px">> | !''Далі буде...'' |
