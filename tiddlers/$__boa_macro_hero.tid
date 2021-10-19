@@ -1,0 +1,8 @@
+created: 20211019174625687
+modified: 20211019174650573
+tags: $:/tags/Macro
+title: $:/boa/macro/hero
+
+\define hero(weblink,name,img,width)
+<$link to="$weblink$"><<image-basic img:"$img$" width:"$width$" align:"center" caption:"$name$">></$link>
+\end
