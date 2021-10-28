@@ -1,5 +1,5 @@
 created: 20210805055217636
-modified: 20211019174805008
+modified: 20211021000000000
 tags: 
 title: Оксана Рабош
 
@@ -19,7 +19,7 @@ title: Оксана Рабош
 <center>
 
 |table-borderless|k
-| <<hero "Оксана Рабош" "Оксана Рабош" "Rabosh_1.jpg" "250px">> | <<hero "Оксана Рабош" "Оксана Рабош" "Rabosh_2.jpg" "250px">> | <<hero "Оксана Рабош" "Оксана Рабош" "Rabosh_3.jpg" "250px">> |
+| <<hero "https://protw.github.io/osoblyva/#Rabosh_1.jpg" "Оксана Рабош" "Rabosh_1.jpg" "250px">> | <<hero "https://protw.github.io/osoblyva/#Rabosh_2.jpg" "Оксана Рабош" "Rabosh_2.jpg" "250px">> | <<hero "https://protw.github.io/osoblyva/#Rabosh_3.jpg" "Оксана Рабош" "Rabosh_3.jpg" "250px">> |
 
 </center>
 
