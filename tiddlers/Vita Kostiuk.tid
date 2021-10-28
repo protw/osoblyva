@@ -1,7 +1,7 @@
 created: 20210809063421471
 modified: 20211021000000000
 tags: 
-title: Вікторія Костюк 
+title: Вікторія Костюк
 
 <div class="card" style="width:100%;">
     <div class="card-body">
@@ -19,7 +19,7 @@ title: Вікторія Костюк
 <center>
 
 |table-borderless|k
-| <<hero "https://protw.github.io/osoblyva/#Kostiuk_1.jpg" "Вікторія Костюк" "Kostiuk_1.jpg" "250px">> | <<hero "https://protw.github.io/osoblyva/#Kostiuk_2.jpg" "Вікторія Костюк" "Kostiuk_2.jpg" "250px">> | <<hero "https://protw.github.io/osoblyva/#Kostiuk_3.jpg" "Вікторія Костюк" "Kostiuk_3.jpg" "250px">> |
+| <<hero "Kostiuk_1.jpg" "Вікторія Костюк" "Kostiuk_1.jpg" "250px">> | <<hero "Kostiuk_2.jpg" "Вікторія Костюк" "Kostiuk_2.jpg" "250px">> | <<hero "Kostiuk_3.jpg" "Вікторія Костюк" "Kostiuk_3.jpg" "250px">> |
 
 </center>
 
